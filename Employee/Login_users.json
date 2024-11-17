@@ -1,0 +1,19 @@
+[
+    {
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "username": "jane_smith",
+      "password": "qwerty456"
+    },
+    {
+      "username": "admin_user",
+      "password": "admin@2024"
+    },
+    {
+      "username": "test_user",
+      "password": "testpass789"
+    }
+  ]
+  

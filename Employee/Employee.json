@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "1",
+      "image": "https://via.placeholder.com/100",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "mobile_no": "1234567890",
+      "designation": "Software Engineer",
+      "gender": "Male",
+      "course": "Computer Science",
+      "created_at": "2023-08-15T12:00:00Z"
+    },
+    {
+      "_id": "2",
+      "image": "https://via.placeholder.com/100",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "mobile_no": "9876543210",
+      "designation": "Product Manager",
+      "gender": "Female",
+      "course": "Business Management",
+      "created_at": "2023-08-20T14:30:00Z"
+    },
+    {
+      "_id": "3",
+      "image": "https://via.placeholder.com/100",
+      "name": "Robert Brown",
+      "email": "robert.brown@example.com",
+      "mobile_no": "4567891230",
+      "designation": "UX Designer",
+      "gender": "Male",
+      "course": "Design & Arts",
+      "created_at": "2023-09-05T09:00:00Z"
+    },
+    {
+      "_id": "4",
+      "image": "https://via.placeholder.com/100",
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "mobile_no": "3216549870",
+      "designation": "HR Manager",
+      "gender": "Female",
+      "course": "Human Resources",
+      "created_at": "2023-07-12T10:45:00Z"
+    },
+    {
+      "_id": "5",
+      "image": "https://via.placeholder.com/100",
+      "name": "Michael Wilson",
+      "email": "michael.wilson@example.com",
+      "mobile_no": "7890123456",
+      "designation": "Data Scientist",
+      "gender": "Male",
+      "course": "Data Analytics",
+      "created_at": "2023-10-01T08:15:00Z"
+    }
+  ]
+  
